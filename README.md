@@ -2,7 +2,7 @@
 
 Portofolio web pribadi yang modern, responsif, dan interaktif, dirancang khusus untuk merepresentasikan perjalanan, keahlian, dan proyek saya di bidang *Software Engineering* dan *AIoT*.
 
-[Lihat Live Demo disini] (Masukkan Link Hosting Anda nanti, misal: https://Krees01.github.io/portfolio)**
+Live Demo: https://krees01.github.io/Portofolio/ **
 
 ## Fitur Utama
 - **Dark/Light Mode:** Mendukung tema gelap dan terang dengan deteksi sistem otomatis.
